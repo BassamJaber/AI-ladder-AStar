@@ -1,0 +1,4 @@
+apple
+leap
+pea
+pear
